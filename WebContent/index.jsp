@@ -8,8 +8,6 @@
 </head>
 <body>
 
-
-
 <a href="springmvc/testModelAndView">testModelAndView</a>
 <br/>
 <form action="springmvc/testPojo" method="post">
